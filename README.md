@@ -21,3 +21,11 @@ FFServer와 FFMpeg의 Commends는 코드에 있으니 참고하시기 바랍니�
 ​
 3. 프로젝트를 실행시킨다.
 
+
+</br> 
+<a href="mailto:dydtjr1994@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/E--mail-Yongseok%20choi-yellow.svg">
+</a>
+<a href="https://blog.naver.com/cys_star" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-cys__star%27s%20Blog-blue.svg">
+</a>
